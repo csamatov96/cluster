@@ -83,3 +83,8 @@ EOF
 cat backend.tf
 #rm -rf .terraform/terraform.tfstate #to remove the state every time, Terraform creates the state
 #terraform init
+terraform_0.11.14 init 
+
+echo "##################"
+echo "Please use terraform_0.11.14"
+echo "##################"
